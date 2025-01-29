@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Center(
-        child: Text("Milesxstone2"),
+        child: Text("Mugisha Ryan"),
       ),
     );
   }
